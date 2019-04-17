@@ -6,4 +6,3 @@ People who are buliding this website are ...
 BenWU, benwu@icloud.com
 conflicts
 bug fixed
-pengsong
