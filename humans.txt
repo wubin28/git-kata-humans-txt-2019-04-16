@@ -6,5 +6,3 @@ People who are buliding this website are ...
 
 BenWU, benwu@icloud.com
 [feature 1] one
-[feature 2] one
-[feature 2] two
