@@ -4,5 +4,7 @@ It's an initiative for knowing the people behind a website. It's a TXT file that
 
 People who are buliding this website are ...
 
+<<<<<<< HEAD
 Ben WU
 libingbing
+yuxiang
