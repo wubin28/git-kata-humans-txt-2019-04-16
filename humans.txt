@@ -3,15 +3,11 @@ What is humans.txt?
 It's an initiative for knowing the people behind a website. It's a TXT file that contains information about the different people who have contributed to building the website.
 
 People who are buliding this website are ...
-<<<<<<< HEAD
 BenWU, benwu@icloud.com
 conflicts
 bug fixed
 zhangjiwen
-=======
-
-<<<<<<< HEAD
 Ben WU
 libingbing
 yuxiang
->>>>>>> cd76f8cdbb96750179c474505b3748c040202413
+yuxiang
